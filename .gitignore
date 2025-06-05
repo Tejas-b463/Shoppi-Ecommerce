@@ -1,0 +1,17 @@
+# Ignore node_modules everywhere
+**/node_modules/
+
+# Ignore environment variable files
+**/.env
+
+# Optional: Ignore logs
+*.log
+
+# Optional: Ignore npm debug logs
+npm-debug.log*
+
+# Optional: Mac system files
+.DS_Store
+
+# Optional: Windows system files
+Thumbs.db
